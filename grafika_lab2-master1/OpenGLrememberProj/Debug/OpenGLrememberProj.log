@@ -1,0 +1,12 @@
+﻿  GUItextRectangle.cpp
+  MyOGL.cpp
+  Object.cpp
+  OpenGLrememberProj.cpp
+  Primitives.cpp
+  PrimitivesStatic.cpp
+  Render.cpp
+C:\Users\Asus\Desktop\comp_graf\grafika_lab2-master1\OpenGLrememberProj\Render.cpp(135,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Asus\Desktop\comp_graf\grafika_lab2-master1\OpenGLrememberProj\Render.cpp(135,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Asus\Desktop\comp_graf\grafika_lab2-master1\OpenGLrememberProj\Render.cpp(135,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+  Создание кода...
+  OpenGLrememberProj.vcxproj -> C:\Users\Asus\Desktop\comp_graf\grafika_lab2-master1\Debug\OpenGLrememberProj.exe
